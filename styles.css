@@ -1,0 +1,157 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+
+
+body{
+    width: 1440px;
+    font-size: 13px;
+    padding: 50px;
+}
+
+h2{
+    font-size: 16px;
+    float: left;
+    padding: 0px 5px;
+    margin-left: 0px;
+    position: relative;
+    margin-top:0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.D1{
+    width: 1000px;
+    height: 1400px;
+    background-color: hsl(30, 54%, 90%);
+    padding-top:80px ;
+    justify-content: center;
+    margin: 40px 480px;
+}
+
+.D2{
+    width: 550px;
+    height: 1300px;
+    background-color: hsl(0, 0%, 100%);
+    margin: 20px auto;
+    padding: 20px;
+    border: solid hsl(0, 0%, 100%);
+    border-radius: 30px;
+}
+
+.Img1{
+    height:200px ;
+    width: 550px;
+    border:colorless solid;
+    border-radius: 30px;
+    position: relative;
+    
+}
+
+h3{
+    color:hsl(24, 5%, 18%);
+    font-size: 30px;
+    font-family: "Young Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h4{
+    font-size: 16px;
+    margin-top: 0px;
+    color: hsl(30, 10%, 34%);
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.1;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+
+
+.Prep{
+    background-color: hsl(30, 54%, 90%);
+    border:colorless solid;
+    border-radius: 10px;
+    margin: 2px 0;
+    padding: 18px;
+
+}
+
+.Prep h5{
+    font-weight: 700;
+    color: hsl(332, 51%, 32%);
+    font-size: 160%;
+    margin-top: 0;
+    margin-bottom: 9px;
+    font-family: "Inter", sans-serif; 
+}
+
+.Prep ul{
+    margin-bottom: 5px;
+    margin-top: 0;
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    line-height: 1.5;
+}
+
+.Prep li{
+    margin-bottom: px;
+    font-size: 14px;
+}
+
+.Ingredients{
+    padding: 0;
+    margin-top: 0px;
+    
+}
+
+.Ingredients h6{
+    font-weight: 600;
+    font-size: 30px;
+    font-style: normal;
+    color:hsl(14, 45%, 36%);
+    margin-top: 25px;
+    font-family: "Young Serif", serif;
+    margin-bottom: 5px;
+}
+
+.Ingredients ul{
+    margin-top: 0px;
+    font-family:  "Inter", sans-serif ;
+    color:hsl(30, 10%, 34%) ;
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 0px;
+
+}
+
+.Ingredients ol{
+    font-family:  "Inter", sans-serif ;
+    color:hsl(30, 10%, 34%) ;
+    line-height: 1.6;
+    margin-bottom: 5px;
+    font-size: 13px;
+}
+
+.Ingredients table{
+    color: hsl(30, 10%, 34%) ;
+    font-family:  "Inter", sans-serif;
+    font: size 15px;
+    border-collapse: collapse;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+
+.Ingredients table th ,
+.Ingredients table td{
+    border-bottom: 1px hsl(30, 10%, 34%) ;
+    padding: 6px 15px;
+}
+
+.Ingredients table tr{
+    border-bottom: 1px solid hsl(30, 10%, 80%);
+}
+
